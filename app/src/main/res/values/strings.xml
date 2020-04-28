@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DianDian</string>
+    <string name="hot_comment_title">热门评论</string>
+    <string name="view_all_comment">查看全部评论</string>
+</resources>
